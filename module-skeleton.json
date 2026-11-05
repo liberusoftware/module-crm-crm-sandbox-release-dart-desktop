@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-crm-sandbox-release-dart-desktop",
+  "capabilityKey": "planned:crm:crm-sandbox-release",
+  "presentation": "dart-desktop",
+  "package": "module_crm_crm_sandbox_release_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/crm/nextjs/crm-sandbox-release.md",
+  "presentationPlan": "projects/crm/features/crm-sandbox-release.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
